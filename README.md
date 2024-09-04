@@ -4,7 +4,7 @@
 
 I participated in Mastercard's Security Awareness Team internship program, focusing on phishing simulations. It was an awesome experience to take the lead on crafting a believable phishing email for our next campaign.  I learned a lot about the different ways phishers try to trick employees and how to craft emails that are contextual, relevant, and believable without being malicious.  By understanding these tactics, we can design simulations that effectively train our colleagues to identify and avoid real phishing attempts.
 
-“Students engage in tasks that mirror the everyday duties at top companies,offering a true reflection of the job market and helping students acquire skills that align with their career goals.” - Yale Office of Career Strategy
+“students do work that reflects real day-to-day tasks at leading companies," which provides a realistic view of the job market and helps students gain skills relevant to their career ambitions.” - Yale Office of Career Strategy
 
 <b> **Skills Gained:** 
 - Cybersecurity
